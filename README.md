@@ -1,0 +1,2 @@
+# RedisTemp
+ Redis kullanımı
