@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedisTemp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb50b57bbac1462ccc25501f613198f3d1a3496e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedisTemp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedisTemp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

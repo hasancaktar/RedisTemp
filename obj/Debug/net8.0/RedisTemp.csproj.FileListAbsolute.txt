@@ -30,3 +30,10 @@ C:\Users\iar545\Desktop\Projeler\RedisTemp\RedisTemp\obj\Debug\net8.0\refint\Red
 C:\Users\iar545\Desktop\Projeler\RedisTemp\RedisTemp\obj\Debug\net8.0\RedisTemp.pdb
 C:\Users\iar545\Desktop\Projeler\RedisTemp\RedisTemp\obj\Debug\net8.0\RedisTemp.genruntimeconfig.cache
 C:\Users\iar545\Desktop\Projeler\RedisTemp\RedisTemp\obj\Debug\net8.0\ref\RedisTemp.dll
+C:\Users\iar545\Desktop\Projeler\RedisTemp\RedisTemp\obj\Debug\net8.0\RedisTemp.sourcelink.json
+C:\Users\iar545\Desktop\Projeler\RedisTemp\RedisTemp\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\iar545\Desktop\Projeler\RedisTemp\RedisTemp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\iar545\Desktop\Projeler\RedisTemp\RedisTemp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iar545\Desktop\Projeler\RedisTemp\RedisTemp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\iar545\Desktop\Projeler\RedisTemp\RedisTemp\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\iar545\Desktop\Projeler\RedisTemp\RedisTemp\bin\Debug\net8.0\StackExchange.Redis.dll
